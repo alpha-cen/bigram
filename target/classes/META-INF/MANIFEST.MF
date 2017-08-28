@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Built-By: Binu George
-Class-Path: log4j-1.2.9.jar
-Build-Jdk: 1.8.0_131
-Created-By: Maven Integration for Eclipse
-Main-Class: com.bigram.main.App
-
