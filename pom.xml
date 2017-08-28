@@ -5,7 +5,7 @@
 	<artifactId>com.bigram</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bigramutil</name>
-	<description>Bigram Utility project</description>
+	<description>Bigram Utility project:Binu George</description>
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<junit.version>4.12</junit.version>
