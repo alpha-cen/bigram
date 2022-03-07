@@ -3,11 +3,11 @@ info:
   version: 1.0.0
   title: Sample Petstore
   description: A sample API that uses a petstore as an example to demonstrate features in the OpenAPI 3.0 specification
-  termsOfService: 
+  termsOfService: http://www.globinch.com/toc.html
   contact:
     name: Binu George
     email: binugeorgep@gmail.com
-    url: 
+    url: http://www.globinch.com
   license:
     name: Apache 2.0
     url: https://www.apache.org/licenses/LICENSE-2.0.html
